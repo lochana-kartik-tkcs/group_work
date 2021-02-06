@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 Hi!! This is Lochana
 I am doing a comp+chem at Krea
 
 change: I do not know if i need to do a chem minor or a math minor
 
 Change2: Still in a dilemma (wrote this line online)
+=======
+yeah yeah
+nesw shit
+nesw online change
+>>>>>>> 77c87a8e412e973050c6c5a0df3f7297db60bf62
