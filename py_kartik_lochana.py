@@ -23,3 +23,16 @@ def fun2(a, b)://~Lochana
 	b=temp
 	print("Changed value of a is",a)
 	print("Changed value of b is",b)
+
+def fun3(n):
+	c=0
+	if(n==0 || n==1):
+		print("Not prime")
+	else:
+		for i in range(0, n):
+			if(n%i==0):
+				c=c+1
+		if(c==2):
+			print("Number is prime")
+		else:
+			print("Not prime")
