@@ -24,7 +24,7 @@ def fun2(a, b)://~Lochana
 	print("Changed value of a is",a)
 	print("Changed value of b is",b)
 
-def fun3(n):
+def fun3(n)://~Lochana
 	c=0
 	if(n==0 || n==1):
 		print("Not prime")
